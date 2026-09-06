@@ -13,7 +13,7 @@ stack = {
 ```
 
 **Building**
-- [`relia`](https://github.com/AletaIndex/relia) — hosted API that scores how relevant a news article *actually* is to a company. LoRA Qwen3 bi-encoder · 86.5% agreement with frontier LLM raters · ~18ms/article.
+- [`relia`](https://github.com/AletaIndex/relia-docs) — hosted API that scores how relevant a news article *actually* is to a company. LoRA Qwen3 bi-encoder · 86.5% agreement with frontier LLM raters · ~18ms/article.
 - [`aletaindex-fin-narratives`](https://github.com/AletaIndex/aletaindex-fin-narratives) — a financial narrative brain for AI agents: clusters news into narratives, tracks sentiment momentum, maps narrative risk. MCP server + REST API.
 - [aletaindex-narrative.com](https://aletaindex-narrative.com) — the live news-narrative product, powered by a Claim DAG + RL source-credibility engine.
 
